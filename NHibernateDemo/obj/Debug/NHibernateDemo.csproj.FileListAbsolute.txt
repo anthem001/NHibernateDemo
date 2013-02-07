@@ -1,0 +1,9 @@
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\bin\Debug\NHibernateDemo.exe.config
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\bin\Debug\NHibernateDemo.exe
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\bin\Debug\NHibernateDemo.pdb
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\bin\Debug\Iesi.Collections.dll
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\bin\Debug\NHibernate.dll
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\bin\Debug\Iesi.Collections.xml
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\bin\Debug\NHibernate.xml
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\obj\Debug\NHibernateDemo.exe
+c:\users\kelly\documents\visual studio 11\Projects\NHibernateDemo\NHibernateDemo\obj\Debug\NHibernateDemo.pdb
